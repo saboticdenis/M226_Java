@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Block
+comment0.text=\r\n\ Ein\ Block,\ der\ \u00FCber\ den\ Bildschirm\ springt\ und\ an\ den\ R\u00E4ndern\ abprallt.\ \r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ \u00DCber\ den\ Bildschirm\ bewegen,\ von\ den\ R\u00E4ndern\ abprallen.\ \r\n\ Bl\u00E4tter\ werden\ gewendet,\ wenn\ wir\ sie\ ber\u00FChren.\ \r\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ Seitw\u00E4rtsbewegung,\ entweder\ rechts\ oder\ links.\r\n
+comment3.params=
+comment3.target=void\ checkEdge()
+comment3.text=\r\n\ Pr\u00FCft,\ ob\ wir\ uns\ am\ Rand\ des\ Bildschirms\ befinden.\ Falls\ ja,\ drehen\ wir\ um.\r\n
+comment4.params=
+comment4.target=void\ checkMouseClick()
+comment4.text=\r\n\ Pr\u00FCft,\ ob\ die\ Maustaste\ geklickt\ wurde.\ Falls\ ja,\ werden\ alle\ Bl\u00E4tter\ ver\u00E4ndert.\r\n
+comment5.params=
+comment5.target=void\ checkLeaf()
+comment5.text=\r\n\ Pr\u00FCft,\ ob\ wir\ ein\ Blatt\ ber\u00FChren.\ Falls\ ja,\ wird\ dieses\ ein\ wenig\ gedreht.\ \r\n
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Food
+comment0.text=\r\n\ Ein\ Futterhaufen.\ Der\ Haufen\ besteht\ anfangs\ aus\ 100\ Futterbr\u00F6seln.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 1.1\r\n
+comment1.params=
+comment1.target=Food()
+comment1.text=\r\n\ Erzeugt\ einen\ Futterhaufen\ mit\ einem\ Bild,\ das\ die\ Gr\u00F6\u00DFe\ des\ Haufens\ veranschaulicht.\r\n
+comment2.params=
+comment2.target=void\ takeSome()
+comment2.text=\r\n\ Entfernt\ etwas\ Futter\ von\ diesem\ Haufen.\r\n
+comment3.params=
+comment3.target=void\ updateImage()
+comment3.text=\r\n\ Aktualisiert\ das\ Bild.\r\n
+comment4.params=
+comment4.target=int\ randomCoord()
+comment4.text=\r\n\ Liefert\ eine\ von\ der\ Gr\u00F6\u00DFe\ des\ Futterhaufens\ abh\u00E4ngige\ Zufallszahl\ zur\u00FCck.\r\n
+numComments=5

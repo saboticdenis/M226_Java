@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Flower
+comment0.text=\r\n\ Eine\ Blume,\ die\ auf\ Mausklicks\ reagiert\ und\ nach\ rechts\ h\u00FCpft.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Aktion\:\ Bewegung\ nach\ rechts,\ wenn\ mit\ der\ Maus\ angeklickt.\r\n
+numComments=2

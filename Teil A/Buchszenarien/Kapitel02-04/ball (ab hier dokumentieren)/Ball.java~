@@ -1,0 +1,49 @@
+import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
+
+/**
+ * Write a description of class Ball here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class Ball extends Actor
+{
+    
+    private int angel;
+    private int veloc;
+    
+    
+     /**
+     * Act - do whatever the Ball wants to do. This method is called whenever
+     * the 'Act' or 'Run' button gets pressed in the environment.
+     */
+    public Ball() 
+    {
+        // Add your action code here.
+        angel = Greenfoot.getRandomNumber(360)-180;
+        veloc = Greenfoot.getRandomNumber(5)+1;
+    }  
+    
+    /**
+     * Act - do whatever the Ball wants to do. This method is called whenever
+     * the 'Act' or 'Run' button gets pressed in the environment.
+     */
+    public void act() 
+    {
+        // Add your action code here.
+        turnAtEdge();
+        move(veloc);
+    }    
+    
+    /**
+     * Prüft, ob wir den Rand der Welt erreicht haben. Wenn ja, wird ein wenig gewendet;
+     * wenn nein, passiert nichts.
+     */
+    public void turnAtEdge()
+    {
+        if ( isAtEdge() ) 
+        {
+            turn(Greenfoot.getRandomNumber(90)-45);
+        }
+    }
+}

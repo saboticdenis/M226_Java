@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ChalkBoard
+comment0.text=\r\n\ Eine\ Schreibtafel.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=ChalkBoard()
+comment1.text=\r\n\ Erzeugt\ eine\ neue\ Tafel.\r\n
+comment2.params=
+comment2.target=void\ practice()
+comment2.text=\r\n\ Dies\ ist\ die\ Methode\ f\u00FCr\ dich\ zum\ \u00DCben.\ Schreibe\ deinen\ Code\ hierhin.\r\n
+comment3.params=number
+comment3.target=void\ write(int)
+comment3.text=\r\n\ Schreibt\ eine\ Zahl\ an\ die\ Tafel.\r\n
+comment4.params=character
+comment4.target=void\ write(char)
+comment4.text=\r\n\ \ Schreibt\ ein\ Zeichen\ an\ die\ Tafel.\r\n
+comment5.params=text
+comment5.target=void\ write(java.lang.String)
+comment5.text=\r\n\ Schreibt\ ein\ wenig\ Text\ an\ die\ Tafel.\r\n
+comment6.params=
+comment6.target=void\ clear()
+comment6.text=\r\n\ Wischt\ die\ Tafel\ sauber.\r\n
+numComments=7

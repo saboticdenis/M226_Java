@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ant
+comment0.text=\r\n\ Eine\ Ameise,\ die\ Futter\ sammelt.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 0.1\r\n
+comment1.params=home
+comment1.target=Ant(AntHill)
+comment1.text=\r\n\ Erzeugt\ eine\ Ameise\ mit\ gegebenen\ Heimath\u00FCgel.\ Die\ Anfangsgeschwindigkeit\ ist\ null\ (keine\ Bewegung).\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Tut,\ was\ eine\ Ameise\ tun\ muss.\r\n
+numComments=3

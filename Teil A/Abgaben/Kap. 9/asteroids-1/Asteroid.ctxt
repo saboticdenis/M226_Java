@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Asteroid
+comment0.text=\r\n\ Ein\ Gesteinsbrocken\ im\ Weltraum.\r\n\ \r\n\ @author\ Poul\ Henriksen\r\n\ @author\ Michael\ K\u00F6lling\r\n
+comment1.params=
+comment1.target=Asteroid()
+comment1.text=\r\n\ Erzeugt\ einen\ Asteroiden\ mit\ Standardgr\u00F6\u00DFe\ und\ zuf\u00E4lliger\ Bewegungsrichtung.\r\n
+comment2.params=size
+comment2.target=Asteroid(int)
+comment2.text=\r\n\ Erzeugt\ einen\ Asteroiden\ mit\ der\ angegebenen\ Gr\u00F6\u00DFe\ und\ zuf\u00E4lliger\ Bewegungsrichtung.\r\n
+comment3.params=size\ velocity
+comment3.target=Asteroid(int,\ Vector)
+comment3.text=\r\n\ Erzeugt\ einen\ Asteroiden\ mit\ der\ angegebenen\ Gr\u00F6\u00DFe\ und\ der\ angegebenen\ Bewegungsrichtung.\r\n
+comment4.params=
+comment4.target=void\ act()
+comment5.params=size
+comment5.target=void\ setSize(int)
+comment5.text=\r\n\ Setzt\ die\ Gr\u00F6\u00DFe\ dieses\ Asteroiden.\ Beachte,\ dass\ die\ Stabilit\u00E4t\ im\ direkten\r\n\ Zusammenhang\ mit\ der\ Gr\u00F6\u00DFe\ steht.\ Kleinere\ Asteroide\ sind\ weniger\ stabil.\r\n
+comment6.params=
+comment6.target=int\ getStability()
+comment6.text=\r\n\ Liefert\ die\ aktuelle\ Stabilit\u00E4t\ dieses\ Asteroiden.\ (Wenn\ dieser\ Wert\ null\ wird,\r\n\ zerf\u00E4llt\ der\ Asteroid.)\r\n
+comment7.params=damage
+comment7.target=void\ hit(int)
+comment7.text=\r\n\ Trifft\ diesen\ Asteroiden\ und\ richtet\ den\ angegebenen\ Schaden\ an.\r\n
+comment8.params=
+comment8.target=void\ breakUp()
+comment8.text=\r\n\ Zerbricht\ diesen\ Asteroiden.\ Ist\ er\ gro\u00DF\ genug,\ wird\ er\ in\ zwei\ kleinere\ Asteroiden\r\n\ zerschlagen.\ Ist\ er\ bereits\ klein,\ verschwindet\ er\ einfach.\r\n
+numComments=9

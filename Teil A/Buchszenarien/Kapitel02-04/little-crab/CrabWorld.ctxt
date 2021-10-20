@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CrabWorld
+comment1.params=
+comment1.target=CrabWorld()
+comment1.text=\r\n\ Erzeugt\ die\ Krabbenwelt\ (den\ Strand).\ Unsere\ Welt\ hat\ eine\ Gr\u00F6\u00DFe\ \r\n\ von\ 560x560\ Zellen,\ wobei\ jede\ Zelle\ nur\ ein\ Pixel\ gro\u00DF\ ist.\r\n
+numComments=2

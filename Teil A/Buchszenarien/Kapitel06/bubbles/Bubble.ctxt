@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Bubble
+comment0.text=\r\n\ Dies\ ist\ eine\ farbige\ schwebende\ Blase.\r\n\r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Bubble()
+comment1.text=\r\n\ Erzeugt\ eine\ schwebende\ Blase\ mit\ zuf\u00E4lliger\ Gr\u00F6\u00DFe\ und\ zuf\u00E4lliger\ Farbe.\r\n
+comment2.params=size
+comment2.target=Bubble(int)
+comment2.text=\r\n\ Erzeugt\ eine\ schwebende\ Blase\ der\ angegebenen\ Gr\u00F6\u00DFe\ und\ mit\ zuf\u00E4lliger\ Farbe.\r\n
+comment3.params=size\ direction
+comment3.target=Bubble(int,\ int)
+comment3.text=\r\n\ Erzeugt\ eine\ schwebende\ Blase\ der\ angegebenen\ Gr\u00F6\u00DFe\ und\ initialisiert\ die\ Bewegungsrichtung.\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Schweben.\r\n
+numComments=5

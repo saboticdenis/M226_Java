@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Stickman
+comment0.text=\r\n\ Dies\ ist\ ein\ Strichm\u00E4nnchen.\ Lass\ es\ laufen\ und\ h\u00FCpfen.\r\n\ \r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Das\ Strichm\u00E4nnchen\ agieren\ lassen.\r\n
+numComments=2

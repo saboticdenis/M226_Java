@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ProtonWave
+comment0.text=\r\n\ Eine\ Protonenwelle,\ die\ sich\ ausdehnt\ und\ Objekte\ zerst\u00F6rt,\ die\ von\ ihr\ ber\u00FChrt\ werden.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=ProtonWave()
+comment1.text=\r\n\ Erzeugt\ eine\ neue\ Protonenwelle.\r\n
+comment2.params=
+comment2.target=void\ initializeImages()
+comment2.text=\ \r\n\ Erzeugt\ die\ Bilder\ f\u00FCr\ die\ expandierende\ Welle.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Agieren\ bedeutet\ f\u00FCr\ die\ Protonenwelle\:\ wachsen\ und\ pr\u00FCfen,\ ob\ etwas\ getroffen\ wurde.\r\n
+comment4.params=
+comment4.target=void\ checkCollision()
+comment4.text=\r\n\ L\u00E4sst\ alle\ getroffenen\ Asteroiden\ explodieren.\r\n
+comment5.params=
+comment5.target=void\ grow()
+comment5.text=\r\n\ L\u00E4sst\ diese\ Welle\ anwachsen.\ Wenn\ sie\ volle\ Gr\u00F6\u00DFe\ erreicht\ hat,\ wird\ sie\ entfernt.\r\n
+numComments=6

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Body
+comment0.text=\r\n\ Ein\ 'K\u02C6rper'\ ist\ jede\ Art\ von\ Objekt\ im\ Weltall,\ das\ eine\ Masse\ hat.\ Es\ kann\ ein\ Stern,\ \ \r\n\ ein\ Planet\ oder\ irgendetwas\ anderes\ sein,\ das\ im\ Weltall\ herumfliegt.\r\n\ \r\n\ @author\ Michael\ K\u02C6lling\ \r\n\ @version\ 1.2\r\n
+comment1.params=
+comment1.target=Body()
+comment1.text=\r\n\ Erzeugt\ ein\ Body-Objekt\ mit\ Standardgr\u02C6\uFB02e,\ -masse,\ \r\n\ -geschwindigkeit\ und\ -farbe.\r\n
+comment2.params=size\ mass\ velocity\ color
+comment2.target=Body(int,\ double,\ Vector,\ greenfoot.Color)
+comment2.text=\r\n\ Erzeugt\ ein\ Body-Objekt\ der\ angegebenen\ Gr\u02C6\uFB02e,\ Masse,\ Geschwindigkeit\ \r\n\ und\ Farbe.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Agiert.\ Das\ hei\uFB02t\:\ Wendet\ die\ Gravitationskr\u2030fte\ von\ allen\ \r\n\ anderen\ vorhandenen\ K\u02C6rpern\ an\ und\ bewegt\ sich\ anschlie\uFB02end.\r\n
+comment4.params=
+comment4.target=void\ bounceAtEdge()
+comment4.text=\r\n\ Pr\u00B8ft,\ ob\ wir\ auf\ den\ Rand\ des\ Universums\ gesto\uFB02en\ sind.\ Wenn\ ja,\ wird\ abgeprallt.\r\n
+comment5.params=
+comment5.target=void\ applyForces()
+comment5.text=\r\n\ Wendet\ die\ Anziehungskr\u00E4fte\ aller\ anderen\ Himmelsk\u00F6rper\ in\ diesem\ Universum\ an.\r\n
+comment6.params=other
+comment6.target=void\ applyGravity(Body)
+comment6.text=\r\n\ Wendet\ die\ Anziehungskraft\ eines\ gegebenen\ K\u02C6rpers\ auf\ diesen\ an.\ \r\n\ (Kraft\ wird\ eine\ Zeiteinheit\ lang\ angewandt;\ dt\=\=1.)\r\n
+comment7.params=
+comment7.target=double\ getMass()
+comment7.text=\r\n\ Liefert\ die\ Masse\ dieses\ K\u02C6rpers\ zur\u00B8ck.\r\n
+numComments=8

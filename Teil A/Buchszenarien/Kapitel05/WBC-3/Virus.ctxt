@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Virus
+comment0.text=\r\n\ Ein\ Virus\ schwimmt\ durch\ den\ Blutstrom.\ Es\ ist\ sch\u00E4dlich,\ aber\ dieses\ Virus\ ist\ zu\ stark\ \r\n\ f\u00FCr\ unsere\ wei\u00DFe\ Blutzelle\:\ wir\ k\u00F6nnen\ es\ nicht\ zerst\u00F6ren.\ Im\ Gegenteil,\ \r\n\ dieses\ Virus\ zerst\u00F6rt\ die\ wei\u00DFe\ Blutzelle\!\ Also\ Abstand\ halten\!\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 0.3\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Herumschwimmen,\ langsam\ rotieren.\r\n
+numComments=2

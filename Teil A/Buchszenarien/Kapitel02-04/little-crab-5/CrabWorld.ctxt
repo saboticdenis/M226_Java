@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CrabWorld
+comment0.text=\r\n\ CrabWorld\ ist\ der\ Ort,\ wo\ die\ Krabben\ und\ andere\ Tiere\ leben.\ \r\n\ Hier\ wird\ die\ Anfangspopulation\ erzeugt.\ \r\n
+comment1.params=
+comment1.target=CrabWorld()
+comment1.text=\r\n\ Erzeugt\ die\ Krabbenwelt\ (den\ Strand).\ Unsere\ Welt\ hat\ eine\ \r\n\ Gr\u00F6sse\ von\ 560x560\ Zellen,\ wobei\ jede\ Zelle\ nur\ 1\ Pixel\r\n\ gross\ ist.\ \r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ Bereitet\ die\ Welt\ f\uFFFDr\ den\ Programmstart\ vor.\ Das\ hei\uFFFDt\:\ erzeugt\ die\ \r\n\ Anfangsobjekte\ und\ setzt\ sie\ in\ die\ Welt.\r\n
+numComments=3

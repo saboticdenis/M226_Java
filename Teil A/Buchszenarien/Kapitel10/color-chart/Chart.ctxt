@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Chart
+comment0.text=\r\n\ Ein\ Diagramm\ zur\ Anzeige\ von\ Farben.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Chart()
+comment1.text=\r\n\ Erzeugt\ eine\ Farbtafel.\r\n
+numComments=2

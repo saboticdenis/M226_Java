@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Counter
+comment0.text=\r\n\ Eine\ Z\u00E4hler-Klasse,\ die\ es\ erm\u00F6glicht,\ einen\ Text\ und\ einen\ numerischen\ Wert\ auf\ dem\ Bildschirm\ anzeigt.\r\n\ \r\n\ Der\ Z\u00E4hler\ ist\ ein\ Akteur,\ er\ muss\ also\ erzeugt\ werden\ und\ dann\ einer\ Greenfoot-Welt\ hinzugef\u00FCgt\ werden.\r\n\ Wenn\ eine\ Referenz\ auf\ den\ Z\u00E4hler\ gehalten\ wird,\ dann\ kann\ sein\ Wert\ justiert\ werden.\r\n\ \r\n\ @author\ Neil\ Brown\ and\ Michael\ K\u00F6lling\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Counter()
+comment2.params=prefix
+comment2.target=Counter(java.lang.String)
+comment2.text=\r\n\ Erzeugt\ einen\ neuen\ Z\u00E4hler,\ initialisiert\ mit\ 0.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Animiert\ die\ Anzeige,\ um\ den\ aktuellen\ Zielwert\ hoch-\ oder\ herunterzuz\u00E4hlen.\r\n
+comment4.params=score
+comment4.target=void\ add(int)
+comment4.text=\r\n\ F\u00FCgt\ einen\ neuen\ Stand\ zum\ aktuellen\ Z\u00E4hlerwert\ hinzu.\ Der\ Z\u00E4hler\ wird\r\n\ in\ den\ nachfolgenden\ Rahmen\ animiert,\ bis\ er\ den\ neuen\ Wert\ erreicht.\r\n
+comment5.params=
+comment5.target=int\ getValue()
+comment5.text=\r\n\ Liefert\ den\ aktuellen\ Z\u00E4hlerwert.\r\n
+comment6.params=newValue
+comment6.target=void\ setValue(int)
+comment6.text=\r\n\ Setzt\ einen\ neuen\ Z\u00E4hlerwert.\ Der\ Z\u00E4hler\ wird\ dadurch\ nicht\ animiert.\r\n
+comment7.params=prefix
+comment7.target=void\ setPrefix(java.lang.String)
+comment7.text=\r\n\ Setzt\ ein\ Textpr\u00E4fix,\ dass\ vor\ dem\ Z\u00E4hlerwert\ angezeigt\ werden\ \r\n\ sollte\ (z.B.\ "Punkte\:\ ").\r\n
+comment8.params=
+comment8.target=void\ updateImage()
+comment8.text=\r\n\ Aktualisiert\ das\ Bild\ auf\ dem\ Bidlschirm,\ um\ den\ aktuellen\ Wert\ anzuzeigen.\ \r\n
+numComments=9

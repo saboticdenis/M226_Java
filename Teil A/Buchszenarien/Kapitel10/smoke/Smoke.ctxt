@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Smoke
+comment0.text=\r\n\ Eine\ Rauchwolke,\ die\ sich\ langsam\ aufl\u00F6st.\r\n\ \r\n\ @author\ M.\ K\u00F6lling\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Smoke()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Wird\ bei\ jedem\ Schritt\ kleiner,\ bis\ wir\ uns\ aufl\u00F6sen.\r\n
+comment3.params=
+comment3.target=void\ shrink()
+comment3.text=\r\n\ Erstellt\ ein\ etwas\ kleineres\ Bild\ dieses\ Akteurs.\ Wird\ das\ Bild\ sehr\ klein,\r\n\ wird\ der\ Akteur\ gel\u00F6scht.\r\n
+numComments=4

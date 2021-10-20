@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Herbst.\ Eine\ Welt\ mit\ einigen\ Bl\u00E4ttern.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 0.1\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Erzeugt\ die\ Welt\ und\ die\ Objekte\ darin.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Erzeugt\ die\ Anfangsobjekte\ in\ der\ Welt.\r\n
+numComments=3

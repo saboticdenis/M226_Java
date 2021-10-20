@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Crab
+comment0.text=\r\n\ Diese\ Klasse\ definiert\ eine\ Krabbe.\ Krabben\ leben\ am\ Strand.\ Sie\ m\uFFFDgen\ Sandw\uFFFDrmer\ \r\n\ (sehr\ lecker,\ besonders\ die\ gr\uFFFDnen).\r\n\ \r\n\ Version\:\ 3\r\n\ \r\n\ In\ dieser\ Version\ wird\ die\ Krabbe\ \uFFFDber\ die\ Tastatur\ gesteuert.\ \r\n\ Sie\ frisst\ auch\ W\uFFFDrmer,\ wenn\ sie\ welche\ findet.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\ \r\n\ Tut,\ was\ auch\ immer\ Krabben\ gerne\ tun.\ Diese\ Methode\ wird\ immer\ \r\n\ aufgerufen,\ wenn\ der\ 'Act'-\ oder\ der\ 'Run'-Button\ des\ Programms\ \r\n\ angeklickt\ werden.\r\n
+comment2.params=
+comment2.target=void\ checkKeypress()
+comment2.text=\r\n\ Pr\uFFFDft,\ ob\ eine\ Steuertaste\ auf\ der\ Tastatur\ gedr\uFFFDckt\ wurde.\r\n\ Wenn\ ja,\ reagiert\ die\ Methode\ entsprechend.\r\n
+comment3.params=
+comment3.target=void\ lookForWorm()
+comment3.text=\r\n\ Pr\uFFFDft,\ ob\ wir\ auf\ einen\ Wurm\ gesto\uFFFDen\ sind.\r\n\ Wenn\ ja,\ wird\ er\ gefressen.\ Wenn\ nein,\ passiert\ nichts.\r\n
+numComments=4

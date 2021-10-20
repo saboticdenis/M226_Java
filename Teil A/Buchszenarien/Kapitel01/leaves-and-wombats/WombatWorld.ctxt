@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=WombatWorld
+comment0.text=\r\n\ Eine\ Welt,\ in\ der\ Wombats\ leben.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 2.0\r\n
+comment1.params=
+comment1.target=WombatWorld()
+comment1.text=\r\n\ Erzeugt\ eine\ neue\ Welt\ mit\ 10x10\ Zellen,\r\n\ wobei\ eine\ Zelle\ die\ Gr\u00F6\u00DFe\ von\ 60x60\ Pixel\ hat.\r\n
+comment2.params=
+comment2.target=void\ populate()
+comment2.text=\r\n\ Bev\u00F6lkert\ die\ Welt\ mit\ einem\ vorgegebenen\ Szenario\ von\ Wombats\ und\ Bl\u00E4ttern.\r\n
+comment3.params=howMany
+comment3.target=void\ randomLeaves(int)
+comment3.text=\r\n\ Platziert\ eine\ Anzahl\ von\ Bl\u00E4ttern\ an\ beliebigen\ Positionen\ in\ der\ Welt.\r\n\ Die\ Anzahl\ der\ Bl\u00E4tter\ kann\ angegeben\ werden.\r\n
+numComments=4

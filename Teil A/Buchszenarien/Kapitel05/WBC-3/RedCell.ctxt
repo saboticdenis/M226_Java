@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RedCell
+comment0.text=\r\n\ Rote\ Blutzellen\ schwimmen\ in\ der\ Blutbahn\ und\ transportieren\ Sauerstoff.\ Sie\ interagieren\ nicht\r\n\ mit\ den\ wei\u00DFen\ Blutzelen\ -\ sie\ schwimmen\ einfach\ vorbei.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 0.3\r\n
+comment1.params=
+comment1.target=RedCell()
+comment1.text=\r\n\ Kontruktor\:\ initialisiert\ die\ Flie\u00DFgeschwindigkeit\ auf\ einen\ zuf\u00E4lligen\ Wert.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Herumschwimmen,\ von\ rechts\ nach\ links.\ Verschwinden,\ wenn\ die\ linke\ Seite\ erreicht\ ist.\r\n
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AntWorld
+comment0.text=\r\n\ Die\ Welt,\ in\ der\ Ameisen\ leben.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 0.1\r\n
+comment1.params=
+comment1.target=AntWorld()
+comment1.text=\r\n\ Erzeugt\ eine\ neue\ Welt.\ Sie\ wird\ mit\ einigen\ Ameisenh\u00FCgeln\r\n\ und\ Futterquellen\ initialisiert.\r\n
+numComments=2

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Ball
+comment0.text=\r\n\ Der\ Ball\ des\ Spiels.\ Er\ bewegt\ sich\ und\ prallt\ von\ den\ W\u00E4nden\ ab.\r\n\ \r\n\ @author\ mik\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Ball()
+comment1.text=\r\n\ Erzeugt\ einen\ Ball\ mit\ einem\ zuf\u00E4llig\ ausgew\u00E4hlten\ Bewegungsvektor.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Sorgt\ f\u00FCr\ die\ Bewegung\ und\ erzeugt\ Rauch.\ \r\n
+comment3.params=
+comment3.target=void\ move()
+comment3.text=\r\n\ Bewegt\ den\ Ball\ und\ pr\u00FCft\ dann,\ ob\ wir\ eine\ Wand\ getroffen\ haben.\r\n
+comment4.params=
+comment4.target=void\ checkWalls()
+comment4.text=\r\n\ Pr\u00FCft,\ ob\ wir\ eine\ der\ W\u00E4nde\ getroffen\ haben.\ Kehrt\ bei\ Bedarf\ die\ Richtung\ um.\r\n
+comment5.params=
+comment5.target=void\ makeSmoke()
+comment5.text=\r\n\ Gibt\ eine\ Rauchwolke\ ab\ (nur\ bei\ jedem\ zweiten\ Aufruf).\r\n
+numComments=6

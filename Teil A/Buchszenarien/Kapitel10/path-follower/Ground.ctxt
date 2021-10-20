@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Ground
+comment0.text=\r\n\ Ein\ Hintergrund\ mit\ einem\ Pfad\ darauf.\ Zwei\ unterschiedliche\ Hintergr\u00FCnde\ sind\ verf\u00FCgbar.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Ground()
+comment1.text=\r\n\ Erzeugt\ das\ Feld.\r\n
+comment2.params=
+comment2.target=void\ showMap1()
+comment3.params=
+comment3.target=void\ showMap2()
+numComments=4

@@ -1,0 +1,19 @@
+import greenfoot.*;
+
+/**
+ * Diese Klasse definiert eine Krabbe. Krabben leben am Strand.
+ * 
+ * @author HAI
+ * @version 1.1 
+ * Aufgaben gelöst
+ */
+public class Crab extends Actor
+{
+    public void act()
+    {
+       
+        cxcxcxc // HAI Füge hier deinen Code ein.
+    }
+}
+
+

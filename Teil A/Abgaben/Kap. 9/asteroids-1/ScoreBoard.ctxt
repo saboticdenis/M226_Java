@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ScoreBoard
+comment0.text=\r\n\ Das\ ScoreBoard\ wird\ verwendet,\ um\ die\ Ergebnisse\ auf\ dem\ Bildschirm\ anzuzeigen.\ \r\n\ Es\ kann\ etwas\ Text\ und\ einige\ Zahlen\ anzeigen.\r\n\ \r\n\ @author\ M\ K\u00F6lling\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=ScoreBoard()
+comment1.text=\r\n\ Erzeugt\ zum\ Testen\ eine\ Anzeigetafel\ mit\ Platzhalterwerten.\r\n
+comment2.params=score
+comment2.target=ScoreBoard(int)
+comment2.text=\r\n\ Erzeugt\ eine\ Anzeigetafel\ f\u00FCr\ das\ endg\u00FCltige\ Ergebnis.\r\n
+comment3.params=title\ prefix\ score
+comment3.target=void\ makeImage(java.lang.String,\ java.lang.String,\ int)
+comment3.text=\r\n\ Erzeugt\ das\ Bild\ der\ Anzeigetafel.\r\n
+numComments=4

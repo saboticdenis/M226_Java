@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Border
+comment0.text=\r\n\ Eine\ Begrenzung\ unserer\ Welt,\ um\ die\ linken\ und\ rechten\ R\u00E4nder\ zu\ verdecken.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Aktion\ -\ nichts\ zu\ tun.\ Dieses\ Objekt\ macht\ nichts.\r\n
+numComments=2

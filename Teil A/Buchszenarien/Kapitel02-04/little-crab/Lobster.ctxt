@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Lobster
+comment0.text=\r\n\ Erg\u00E4nzen\ Sie\ hier\ eine\ Beschreibung\ f\u00FCr\ die\ Klasse\ Lobster.\r\n\ \r\n\ @author\:\ DSA\r\n\ @V1.0\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ lookForCrab()
+comment2.text=Der\ Hummer\ sucht\ Krabben\ und\ frisst\ sie,\r\n\ falls\ er\ sie\ frisst\ wird\ das\ spiel\ gestoppt.\r\n
+comment3.params=
+comment3.target=void\ turnAtEdge()
+comment3.text=Der\ Hummer\ dreht\ sich\ um\ 17\ Grad\ nach\ rechts,\r\n\ wenn\ er\ an\ eine\ Kante\ stosst.\r\n
+comment4.params=
+comment4.target=void\ randomTurn()
+comment4.text=Der\ Hummer\ dreht\ sich\ zuf\u00E4llig\ nach\ links\ oder\ rechts,\r\n\ im\ 90\ Grad\ Zufallsradius\r\n
+numComments=5

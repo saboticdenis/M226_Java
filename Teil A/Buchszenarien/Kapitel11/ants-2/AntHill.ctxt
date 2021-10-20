@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AntHill
+comment0.text=\r\n\ Ein\ H\u00FCgel\ voller\ Ameisen.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 1.1\r\n
+comment1.params=
+comment1.target=AntHill()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ einen\ Ameisenh\u00FCgel\ mit\ einem\ Ameisenvolk\ vorgegebener\ Gr\u00F6\u00DFe\ (40).\r\n
+comment2.params=numberOfAnts
+comment2.target=AntHill(int)
+comment2.text=\r\n\ Konstruktor\ f\u00FCr\ einen\ Ameisenh\u00FCgel\ mit\ der\ angegebenen\ Ameisenzahl.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Aktion\:\ Sind\ noch\ Ameisen\ im\ H\u00FCgel,\ wird\ festgestellt,\ ob\ eine\ herauskommen\ sollte.\r\n
+comment4.params=
+comment4.target=void\ countFood()
+comment4.text=\r\n\ H\u00E4lt\ fest,\ dass\ wir\ ein\ weiteres\ bisschen\ Futter\ gesammelt\ haben.\r\n
+numComments=5

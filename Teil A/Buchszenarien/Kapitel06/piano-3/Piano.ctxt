@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Piano
+comment0.text=\r\n\ Ein\ Klavier,\ das\ mit\ der\ Computertastatur\ gespielt\ werden\ kann.\r\n\ \r\n\ @author\:\ M.\ K\u00F6lling\r\n\ @version\:\ 0.1\r\n
+comment1.params=
+comment1.target=Piano()
+comment1.text=\r\n\ Erzeugt\ das\ Klavier.\r\n
+numComments=2

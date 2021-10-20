@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Body
+comment0.text=\r\n\ Ein\ 'K\u00F6rper'\ ist\ jede\ Art\ von\ Objekt\ im\ Weltall,\ das\ eine\ Masse\ hat.\ Es\ kann\ ein\ Stern,\ \ \r\n\ ein\ Planet\ oder\ irgendetwas\ anderes\ sein,\ das\ im\ Weltall\ herumfliegt.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\ \r\n\ @version\ 0.2\r\n
+comment1.params=
+comment1.target=Body()
+comment1.text=\r\n\ Erzeugt\ ein\ Body-Objekt\ mit\ Standardgr\u00F6\u00DFe,\ -masse,\ \r\n\ -geschwindigkeit\ und\ -farbe.\r\n
+comment2.params=size\ mass\ velocity\ color
+comment2.target=Body(int,\ double,\ Vector,\ greenfoot.Color)
+comment2.text=\r\n\ Erzeugt\ ein\ Body-Objekt\ der\ angegebenen\ Gr\u00F6\u00DFe,\ Masse,\ Geschwindigkeit\ \r\n\ und\ Farbe.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Agiert.\ Das\ hei\u00DFt\:\ Wendet\ die\ Gravitationskr\u00E4fte\ von\ allen\ \r\n\ anderen\ vorhandenen\ K\u00F6rpern\ an\ und\ bewegt\ sich\ anschlie\u00DFend.\r\n
+comment4.params=
+comment4.target=double\ getMass()
+comment4.text=\r\n\ Liefert\ die\ Masse\ dieses\ K\u00F6rpers\ zur\u00FCck.\r\n
+numComments=5

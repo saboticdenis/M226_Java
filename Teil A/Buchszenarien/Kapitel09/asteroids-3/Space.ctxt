@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Space
+comment0.text=\r\n\ Weltraum.\ Etwas,\ in\ dem\ Raketen\ herumfliegen\ k\u00F6nnen.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 1.1\r\n
+comment1.params=
+comment1.target=Space()
+comment1.text=\r\n\ Erzeugt\ den\ Weltraum\ und\ alle\ Objekte\ darin.\r\n
+comment2.params=count
+comment2.target=void\ addAsteroids(int)
+comment2.text=\r\n\ F\u00FCgt\ eine\ vorgegebene\ Anzahl\ an\ Asteroiden\ in\ unsere\ Welt.\ Asteroiden\ werden\ nur\r\n\ in\ die\ linke\ H\u00E4lfte\ der\ Welt\ eingef\u00FCgt.\r\n
+comment3.params=number
+comment3.target=void\ createStars(int)
+comment3.text=\r\n\ Erzeugt\ eine\ vorgegebene\ Anzahl\ an\ Sternen\ in\ unserem\ Weltraum.\r\n
+comment4.params=
+comment4.target=void\ gameOver()
+comment4.text=\r\n\ Diese\ Methode\ wird\ aufgerufen,\ wenn\ das\ Spiel\ zu\ Ende\ ist,\ um\ den\ Endstand\ anzuzeigen.\r\n
+numComments=5

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Crab
+comment0.text=\r\n\ Diese\ Klasse\ definiert\ eine\ Krabbe.\ Krabben\ leben\ am\ Strand.\r\n\ \r\n\ @author\ DSA\r\n\ @version\ 1.0\ \r\n\ Aufgaben\ gel\u00F6st\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ checkKeypress()
+comment2.text=\r\n\ Pr\u00FCft\ ob\ eine\ Steuertaste\r\n
+comment3.params=
+comment3.target=void\ lookForWorm()
+comment3.text=Die\ Krabbe\ sucht\ W\u00FCrmer\ und\ frisst\ sie\r\n\ \r\n
+comment4.params=
+comment4.target=void\ turnAtEdge()
+comment4.text=Die\ Krabbe\ dreht\ sich\ um\ 17\ Grad\ nach\ rechts,\r\n\ wenn\ sie\ an\ eine\ Kante\ stosst.\r\n
+comment5.params=
+comment5.target=void\ randomTurn()
+comment5.text=Die\ Krabbe\ dreht\ sich\ zuf\u00E4llig\ nach\ links\ oder\ rechts,\r\n\ im\ 90\ Grad\ Zufallsradius\r\n
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Space
+comment0.text=\r\n\ Der\ Weltraum.\ Die\ letzte\ Herausforderung.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Space()
+comment1.text=\r\n\ Erzeugt\ den\ Weltraum.\r\n
+comment2.params=
+comment2.target=void\ sunAndPlanet()
+comment2.text=\r\n\ Richtet\ das\ Universum\ mit\ einer\ Sonne\ und\ einem\ Planeten\ ein.\r\n
+comment3.params=
+comment3.target=void\ sunAndTwoPlanets()
+comment3.text=\r\n\ Richtet\ das\ Universum\ mit\ einer\ Sonne\ und\ zwei\ Planeten\ ein.\r\n
+comment4.params=
+comment4.target=void\ sunPlanetMoon()
+comment4.text=\r\n\ Richtet\ das\ Universum\ mit\ einer\ Sonne,\ einem\ Planeten\ und\ einem\ Mond\ ein.\r\n
+comment5.params=
+comment5.target=void\ removeAllObjects()
+comment5.text=\r\n\ Entfernt\ alle\ Objekte,\ die\ gerade\ in\ der\ Welt\ sind.\r\n
+numComments=6

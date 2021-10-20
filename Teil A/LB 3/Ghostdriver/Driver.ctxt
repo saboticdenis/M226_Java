@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Driver
+comment0.text=\r\n\ Erg\u00E4nzen\ Sie\ hier\ eine\ Beschreibung\ f\u00FCr\ die\ Klasse\ Virus.\r\n\ \r\n\ @author\ DSabotic\ \r\n\ @version\ V1.1\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Mit\ jedem\ Act\ befehl\ bewegt\ sich\ der\ Virus\ 4\ Zellen\r\n\ nach\ vorne\ ud\ dreht\ sich\ 1\ Zelle\ im\ Uhrzeigersinn\r\n
+numComments=2

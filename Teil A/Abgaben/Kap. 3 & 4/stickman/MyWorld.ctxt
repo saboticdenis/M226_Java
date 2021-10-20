@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Die\ Strichm\u00E4nnchen-Welt.\ Sehr\ einfach;\ platziert\ nur\ ein\ Strichm\u00E4nnchen.\r\n\ \r\n\ @author\ mik\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ MyWorld.\r\n
+numComments=2

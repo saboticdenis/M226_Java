@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Piano
+comment0.text=\r\n\ Ein\ Klavier,\ das\ mit\ der\ Computertastatur\ gespielt\ werden\ kann.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Piano()
+comment1.text=\r\n\ Erstellen\ des\ Klaviers.\ Dies\ bedeutet\ in\ erster\ Linie,\ abgesehen\ von\ der\ Definition\ der\ Gr\u00F6\u00DFe,\r\n\ die\ Tasten\ erzeugen\ und\ sie\ in\ der\ Welt\ platzieren.\r\n
+comment2.params=
+comment2.target=void\ makeKeys()
+comment2.text=\r\n\ Erzeuge\ die\ Klaviertasten\ (wei\u00DF\ und\ schwarz)\ und\ platziere\ sie\ in\ der\ Welt.\r\n
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Crab
+comment0.text=\r\n\ Diese\ Klasse\ definiert\ eine\ Krabbe.\ Krabben\ leben\ am\ Strand.\r\n\ \r\n\ Version\:\ 2\r\n\ \r\n\ In\ dieser\ Version\ l\u00E4uft\ die\ Krabbe\ mehr\ oder\ weniger\ zuf\u00E4llig\ am\ Strand\ herum.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\ \r\n\ \ Tut,\ was\ auch\ immer\ Krabben\ gerne\ tun.\ Diese\ Methode\ wird\ immer\ dann\ aufgerufen,\r\n\ \ wenn\ die\ Buttons\ 'Act'\ oder\ 'Run'\ in\ der\ Entwicklungsumgebung\ gedr\u00FCckt\ werden.\r\n
+numComments=2

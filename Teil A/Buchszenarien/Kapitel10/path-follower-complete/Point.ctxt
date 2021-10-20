@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Point
+comment0.text=\r\n\ Ein\ einfacher\ Punkt\ mit\ x-\ und\ y-Koordinaten.\r\n\ \r\n\ @author\ mik\r\n\ @version\ 1.0\r\n
+comment1.params=x\ y
+comment1.target=Point(int,\ int)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Point.\r\n
+comment2.params=
+comment2.target=int\ getX()
+comment2.text=\r\n\ Liefert\ die\ x-Koordinate.\r\n
+comment3.params=
+comment3.target=int\ getY()
+comment3.text=\r\n\ Liefert\ die\ y-Koordinate.\r\n\r\n
+numComments=4

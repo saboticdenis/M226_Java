@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Space
+comment0.text=\r\n\ Ein\ wenig\ leerer\ Raum,\ in\ dem\ die\ Blasen\ schweben\ k\u00F6nnen.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Space()
+comment1.text=\r\n\ Erzeugt\ schwarzen\ Raum.\r\n
+numComments=2
