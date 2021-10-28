@@ -9,14 +9,13 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot und MouseInfo)
  */
 public class Highway extends World
 {
-
+   
     /**
      * Konstruktor: die Anfangsobjekte einrichten.
      */
     public Highway()
     {    
         super(780, 360, 1); 
-
         prepare();
     }
 
@@ -30,7 +29,7 @@ public class Highway extends World
             addObject(new Lining(), 779, 359);
             addObject(new Lining(), 779, 2);
             addObject(new Driver(), 779,Greenfoot.getRandomNumber(359));
-  
+             
         }
     }
     
