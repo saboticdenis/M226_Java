@@ -1,13 +1,18 @@
 #BlueJ class context
 comment0.target=Highway
-comment0.text=\r\n\ Die\ Blutbahn\ ist\ der\ Schauplatz\ f\u00FCr\ unser\ Szenario\ "White\ Blood\ Cell".\ \r\n\ Es\ ist\ der\ Ort,\ an\ dem\ Blutzellen,\ Bakterien\ und\ Viren\ herumschwimmen.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 0.1\r\n
+comment0.text=\r\n\ Die\ Highway\ ist\ der\ Schauplatz\ f\u00FCr\ unser\ Szenario.\ \r\n\ Es\ ist\ der\ Ort,\ an\ dem\ der\ Ghostdriver,\ den\ Drivers\ entgegenf\u00E4hrt.\r\n\ \r\n\ @author\ Denis\ Sabotic\r\n\ @version\ 0.1\r\n
 comment1.params=
 comment1.target=Highway()
 comment1.text=\r\n\ Konstruktor\:\ die\ Anfangsobjekte\ einrichten.\r\n
 comment2.params=
-comment2.target=void\ act()
-comment2.text=\r\n\ Erzeugt\ neue\ herumschwimmende\ Objekte\ in\ unregelm\u00E4\u00DFgen\ Abst\u00E4nden.\ \r\n
+comment2.target=void\ gameover()
 comment3.params=
-comment3.target=void\ prepare()
-comment3.text=\r\n\ Bereitet\ die\ Welt\ f\u00FCr\ den\ Programmstart\ vor.\ In\ diesem\ Fall\:\ Erzeugt\ \r\n\ eine\ wei\u00DFe\ Blutzelle\ und\ die\ Begrenzung\ an\ den\ R\u00E4ndern\ der\ Blutbahn.\r\n
-numComments=4
+comment3.target=void\ act()
+comment3.text=\r\n\ Erzeugt\ neue\ Fahrer\ in\ unregelm\u00E4\u00DFgen\ Abst\u00E4nden.\ \r\n\ Z\u00E4hlt\ 60\ Sekunden\ herunter,\ nach\ den\ 60\ Sekunden\ erscheint\ ein\ Victory\r\n\ screen\r\n
+comment4.params=
+comment4.target=void\ replay()
+comment4.text=\r\n\ Bei\ Dr\u00FCcken\ der\ "Enter"\ Taste\ startet\ das\ Spiel\ neu\ (steht\r\n\ auf\ dem\ Game\ Over\ screen)\r\n
+comment5.params=
+comment5.target=void\ prepare()
+comment5.text=\r\n\ Bereitet\ die\ Welt\ f\u00FCr\ den\ Programmstart\ vor.\ In\ diesem\ Fall\:\ Erzeugt\ \r\n\ eine\ Strasse\ und\ B\u00E4ume\ am\ Rande\ der\ Strasse.\r\n
+numComments=6

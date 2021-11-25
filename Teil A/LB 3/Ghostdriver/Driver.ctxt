@@ -1,9 +1,10 @@
 #BlueJ class context
 comment0.target=Driver
-comment0.text=\r\n\ Erg\u00E4nzen\ Sie\ hier\ eine\ Beschreibung\ f\u00FCr\ die\ Klasse\ Virus.\r\n\ \r\n\ @author\ DSabotic\ \r\n\ @version\ V1.1\r\n
+comment0.text=\r\n\ Erg\u00E4nzen\ Sie\ hier\ eine\ Beschreibung\ f\u00FCr\ die\ Klasse\ Driver.\r\n\ \r\n\ @author\ DSabotic\ \r\n\ @version\ V0.1\r\n
 comment1.params=
 comment1.target=void\ act()
-comment1.text=\r\n\ Mit\ jedem\ Act\ befehl\ bewegt\ sich\ der\ Virus\ 4\ Zellen\r\n\ \r\n
+comment1.text=\r\n\ Mit\ jedem\ Act\ befehl\ bewegt\ sich\ der\ Driver\ 4\ Schritte\ nach\ vorne\r\n\ Wenn\ die\ Drivers\ den\ Linken\ Rand\ erreicht\ haben\ verschwinden\ sie.\r\n
 comment2.params=
 comment2.target=void\ checkCollision()
+comment2.text=\r\n\ Pr\u00FCft\ ob\ die\ Drivers\ mit\ dem\ Ghostdriver\ einen\ Unfall\ haben.\r\n\ Falls\ sie\ sich\ ber\u00FChren\ erscheint\ der\ Gameover\ Screen\ und\r\n\ der\ Ghostdriver\ verschwindet.\r\n
 numComments=3

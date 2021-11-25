@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GameOver
+comment0.text=\r\n\ Diese\ Klasse\ gilt\ lediglich\ als\ GameOverscreen\ und\ \r\n\ dient\ keinem\ weiteren\ Zweck\r\n\ \r\n\ @author\ Denis\ Sabotic\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ tut,\ was\ auch\ immer\ GameOver\ tun\ will.\ Diese\ Methode\ wird\ aufgerufen,\ \r\n\ sobald\ der\ 'Act'\ oder\ 'Run'\ Button\ in\ der\ Umgebung\ angeklickt\ werden.\ \r\n
+numComments=2

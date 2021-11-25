@@ -1,9 +1,10 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot und MouseInfo)
 
 /**
- * Die Objekte für die Wandverkleidung - Lining - sind Objekte an den Rändern der Vene. 
+ * Die Objekte für die Wandverkleidung - Lining - sind Objekte an den Rändern 
+ * der Strasse. 
  * 
- * @author Michael Kölling
+ * @author Denis Sabotic
  * @version 0.1
  */
 public class Lining extends Actor

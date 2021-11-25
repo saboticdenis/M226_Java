@@ -1,16 +1,17 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot und MouseInfo)
 
 /**
- * Ergänzen Sie hier eine Beschreibung für die Klasse Virus.
+ * Ergänzen Sie hier eine Beschreibung für die Klasse Driver.
  * 
  * @author DSabotic 
- * @version V1.1
+ * @version V0.1
  */
 public class Driver extends Actor
 {
+    GreenfootSound sound = new GreenfootSound("theme.mp3");
     /**
-     * Mit jedem Act befehl bewegt sich der Virus 4 Zellen
-     * 
+     * Mit jedem Act befehl bewegt sich der Driver 4 Schritte nach vorne
+     * Wenn die Drivers den Linken Rand erreicht haben verschwinden sie.
      */
     public void act() 
     {
@@ -20,17 +21,26 @@ public class Driver extends Actor
          if (getX() == 0) 
         {
             getWorld().removeObject(this);
+            
         }
+        
     }   
-    
-        private void checkCollision()
+        
+    int time = 0;
+        /**
+     * Prüft ob die Drivers mit dem Ghostdriver einen Unfall haben.
+     * Falls sie sich berühren erscheint der Gameover Screen und
+     * der Ghostdriver verschwindet.
+     */
+        public void checkCollision()
     {
         if (isTouching(Ghostdriver.class))
         {
+            World Highway =getWorld();
             removeTouching(Ghostdriver.class);
-            Greenfoot.playSound("explosion.wav");
-            Greenfoot.stop();
-            setImage("boom.png");
+            GameOver gameover = new GameOver();
+            getWorld().addObject (gameover, 380, 180);
+           
         }
     
     }

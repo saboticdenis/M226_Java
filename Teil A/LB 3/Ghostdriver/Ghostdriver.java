@@ -1,16 +1,17 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot und MouseInfo)
 
 /**
- * Dies ist eine weiße Blutzelle. Diese Zellart hat die Aufgabe, Bakterien   
- * abzufangen und aus dem Blut zu entfernen.
+ * Der Ghostdriver ist der vom Spieler gesteuerte Actor.
+ * Er fährt auf der entgegengesetzten Bahn.
  * 
- * @author Michael Kölling
+ * @author Denis Sabotic
  * @version 0.1
  */
 public class Ghostdriver extends Actor
 {
     /**
-     * Aktion: auf- und abbewegen, wenn Pfeiltasten gedrückt werden.
+     * Aktion: auf-, rückwärts-,vorwärts- und abbewegen, 
+     * wenn Pfeiltasten gedrückt werden.
      */
     public void act() 
     {

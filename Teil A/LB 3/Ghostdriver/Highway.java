@@ -1,26 +1,39 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot und MouseInfo)
 
 /**
- * Die Blutbahn ist der Schauplatz für unser Szenario "White Blood Cell". 
- * Es ist der Ort, an dem Blutzellen, Bakterien und Viren herumschwimmen.
+ * Die Highway ist der Schauplatz für unser Szenario. 
+ * Es ist der Ort, an dem der Ghostdriver, den Drivers entgegenfährt.
  * 
- * @author Michael Kölling
+ * @author Denis Sabotic
  * @version 0.1
  */
 public class Highway extends World
 {
-   
+      private int timer = 3700;
+  
+      
     /**
      * Konstruktor: die Anfangsobjekte einrichten.
      */
     public Highway()
     {    
         super(780, 360, 1); 
-        prepare();
+        prepare();    
+
+
+        
+    }
+    public void gameover()
+    {
+        GameOver gameover = new GameOver();
+        addObject(gameover, 360, 180);
+        
     }
 
     /**
-     * Erzeugt neue herumschwimmende Objekte in unregelmäßgen Abständen. 
+     * Erzeugt neue Fahrer in unregelmäßgen Abständen. 
+     * Zählt 60 Sekunden herunter, nach den 60 Sekunden erscheint ein Victory
+     * screen
      */
     public void act()
     {   
@@ -29,13 +42,33 @@ public class Highway extends World
             addObject(new Lining(), 779, 359);
             addObject(new Lining(), 779, 2);
             addObject(new Driver(), 779,Greenfoot.getRandomNumber(359));
-             
+            
+        }
+        timer--;
+        if (timer <= 0) {
+            // ??? Aktor erstelle game over und erzeugen lassen. 
+            Victory victory = new Victory();
+            addObject(victory, 360, 180);
+            
+            // pause the execution of the program if 'timer' is less than or equal to 0
+        }
+        
+        replay();
+    }
+    /**
+     * Bei Drücken der "Enter" Taste startet das Spiel neu (steht
+     * auf dem Game Over screen)
+     */
+    public void replay()
+    {
+        if (Greenfoot.isKeyDown("enter")){
+            Greenfoot.setWorld(new Highway());  
+            
         }
     }
-    
     /**
      * Bereitet die Welt für den Programmstart vor. In diesem Fall: Erzeugt 
-     * eine weiße Blutzelle und die Begrenzung an den Rändern der Blutbahn.
+     * eine Strasse und Bäume am Rande der Strasse.
      */
     private void prepare()
     {
@@ -62,5 +95,6 @@ public class Highway extends World
         addObject(lining11, 596, 359);
         Lining lining12 = new Lining();
         addObject(lining12, 740, 354);
+       
     }
 }
